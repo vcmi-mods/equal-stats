@@ -1,0 +1,25 @@
+{
+	"name" : "HotA Towns",
+	"description" : "New towns released by HotA Team.",
+	"author" : "luk3Z",
+	"licenseName" : "Creative Commons Attribution-ShareAlike",
+	"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
+	"contact" : "",
+	"version" : "1.0",
+	"modType" : "Creatures",
+	"depends" :
+	[
+			"hota"
+	],
+	"conflicts" :
+	[
+		"hota.gamebalance",
+		"hota.confluxvaultofashes"
+	],
+	"creatures" :
+	[
+		"config/cove.json",
+		"config/factory.json"
+	],
+	"keepDisabled" : true,
+}

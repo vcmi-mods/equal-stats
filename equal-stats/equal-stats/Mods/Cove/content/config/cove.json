@@ -1,0 +1,317 @@
+{
+	"hota.cove:nymph" : {
+		"aiValue" : 87,
+		"attack" : 4,
+		"cost" : {
+			"crystal" : 0,
+			"gems" : 0,
+			"gold" : 60,
+			"mercury" : 0,
+			"ore" : 0,
+			"sulfur" : 0,
+			"wood" : 0
+		},
+		"damage" : {
+			"max" : 3,
+			"min" : 1
+		},
+		"defense" : 5,
+		"growth" : 14,
+		"hitPoints" : 10,
+		"horde" : 0,
+	},
+	"hota.cove:oceanid" : {
+		"aiValue" : 95,
+		"attack" : 6,
+		"cost" : {
+			"crystal" : 0,
+			"gems" : 0,
+			"gold" : 75,
+			"mercury" : 0,
+			"ore" : 0,
+			"sulfur" : 0,
+			"wood" : 0
+		},
+		"damage" : {
+			"max" : 3,
+			"min" : 2
+		},
+		"defense" : 5,
+		"growth" : 14,
+		"hitPoints" : 10,
+		"horde" : 0,
+	},
+	"hota.cove:crewmate" : {
+		"aiValue" : 97,
+		"attack" : 6,
+		"cost" : {
+			"crystal" : 0,
+			"gems" : 0,
+			"gold" : 100,
+			"mercury" : 0,
+			"ore" : 0,
+			"sulfur" : 0,
+			"wood" : 0
+		},
+		"damage" : {
+			"max" : 3,
+			"min" : 2
+		},
+		"defense" : 3,
+		"growth" : 9,
+		"hitPoints" : 10,
+		"horde" : 0,
+	},
+	"hota.cove:seaman" : {
+		"aiValue" : 97,
+		"attack" : 6,
+		"cost" : {
+			"crystal" : 0,
+			"gems" : 0,
+			"gold" : 150,
+			"mercury" : 0,
+			"ore" : 0,
+			"sulfur" : 0,
+			"wood" : 0
+		},
+		"damage" : {
+			"max" : 3,
+			"min" : 2
+		},
+		"defense" : 3,
+		"growth" : 9,
+		"hitPoints" : 10,
+		"horde" : 0,
+	},
+	"hota.cove:pirate" : {
+		"aiValue" : 271,
+		"attack" : 8,
+		"cost" : {
+			"crystal" : 0,
+			"gems" : 0,
+			"gold" : 200,
+			"mercury" : 0,
+			"ore" : 0,
+			"sulfur" : 0,
+			"wood" : 0
+		},
+		"damage" : {
+			"max" : 6,
+			"min" : 3
+		},
+		"defense" : 8,
+		"growth" : 7,
+		"hitPoints" : 25,
+		"horde" : 3,
+	},
+	"hota.cove:corsair" : {
+		"aiValue" : 281,
+		"attack" : 9,
+		"cost" : {
+			"crystal" : 0,
+			"gems" : 0,
+			"gold" : 240,
+			"mercury" : 0,
+			"ore" : 0,
+			"sulfur" : 0,
+			"wood" : 0
+		},
+		"damage" : {
+			"max" : 6,
+			"min" : 3
+		},
+		"defense" : 9,
+		"growth" : 7,
+		"hitPoints" : 25,
+		"horde" : 3,
+	},
+	"hota.cove:seadog" : {
+		"aiValue" : 291,
+		"attack" : 9,
+		"cost" : {
+			"crystal" : 0,
+			"gems" : 0,
+			"gold" : 240,
+			"mercury" : 0,
+			"ore" : 0,
+			"sulfur" : 0,
+			"wood" : 0
+		},
+		"damage" : {
+			"max" : 6,
+			"min" : 3
+		},
+		"defense" : 9,
+		"growth" : 7,
+		"hitPoints" : 25,
+		"horde" : 3,
+	},
+	"hota.cove:stormbird" : {
+		"aiValue" : 505,
+		"attack" : 10,
+		"cost" : {
+			"crystal" : 0,
+			"gems" : 0,
+			"gold" : 300,
+			"mercury" : 0,
+			"ore" : 0,
+			"sulfur" : 0,
+			"wood" : 0
+		},
+		"damage" : {
+			"max" : 9,
+			"min" : 6
+		},
+		"defense" : 12,
+		"growth" : 4,
+		"hitPoints" : 35,
+		"horde" : 0,
+	},
+	"hota.cove:ayssid" : {
+		"aiValue" : 540,
+		"attack" : 12,
+		"cost" : {
+			"crystal" : 0,
+			"gems" : 0,
+			"gold" : 400,
+			"mercury" : 0,
+			"ore" : 0,
+			"sulfur" : 0,
+			"wood" : 0
+		},
+		"damage" : {
+			"max" : 10,
+			"min" : 7
+		},
+		"defense" : 12,
+		"growth" : 4,
+		"hitPoints" : 35,
+		"horde" : 0,
+	},
+	"hota.cove:seaWitch" : {
+		"aiValue" : 504,
+		"attack" : 12,
+		"cost" : {
+			"crystal" : 0,
+			"gems" : 0,
+			"gold" : 400,
+			"mercury" : 0,
+			"ore" : 0,
+			"sulfur" : 0,
+			"wood" : 0
+		},
+		"damage" : {
+			"max" : 12,
+			"min" : 10
+		},
+		"defense" : 7,
+		"growth" : 3,
+		"hitPoints" : 30,
+		"horde" : 0,
+	},
+	"hota.cove:sorceress" : {
+		"aiValue" : 534,
+		"attack" : 12,
+		"cost" : {
+			"crystal" : 0,
+			"gems" : 0,
+			"gold" : 450,
+			"mercury" : 0,
+			"ore" : 0,
+			"sulfur" : 0,
+			"wood" : 0
+		},
+		"damage" : {
+			"max" : 12,
+			"min" : 10
+		},
+		"defense" : 10,
+		"growth" : 3,
+		"hitPoints" : 30,
+		"horde" : 0,
+	},
+	"hota.cove:nix" : {
+		"aiValue" : 1868,
+		"attack" : 15,
+		"cost" : {
+			"crystal" : 0,
+			"gems" : 0,
+			"gold" : 1000,
+			"mercury" : 0,
+			"ore" : 0,
+			"sulfur" : 0,
+			"wood" : 0
+		},
+		"damage" : {
+			"max" : 25,
+			"min" : 15
+		},
+		"defense" : 15,
+		"growth" : 2,
+		"hitPoints" : 100,
+		"horde" : 0,
+	},
+	"hota.cove:nixWarrior" : {
+		"aiValue" : 2056,
+		"attack" : 16,
+		"cost" : {
+			"crystal" : 0,
+			"gems" : 0,
+			"gold" : 1200,
+			"mercury" : 0,
+			"ore" : 0,
+			"sulfur" : 0,
+			"wood" : 0
+		},
+		"damage" : {
+			"max" : 25,
+			"min" : 20
+		},
+		"defense" : 16,
+		"growth" : 2,
+		"hitPoints" : 100,
+		"horde" : 0,
+	},
+	"hota.cove:seaserpent" : {
+		"aiValue" : 5635,
+		"attack" : 20,
+		"cost" : {
+			"crystal" : 0,
+			"gems" : 0,
+			"gold" : 3000,
+			"mercury" : 0,
+			"ore" : 0,
+			"sulfur" : 1,
+			"wood" : 0
+		},
+		"damage" : {
+			"max" : 50,
+			"min" : 50
+		},
+		"defense" : 20,
+		"growth" : 1,
+		"hitPoints" : 200,
+		"horde" : 0,
+	},
+	"hota.cove:haspid" : {
+		"aiValue" : 9555,
+		"attack" : 30,
+		"cost" : {
+			"crystal" : 0,
+			"gems" : 0,
+			"gold" : 5000,
+			"mercury" : 0,
+			"ore" : 0,
+			"sulfur" : 3,
+			"wood" : 0
+		},
+		"damage" : {
+			"max" : 50,
+			"min" : 50
+		},
+		"defense" : 30,
+		"growth" : 1,
+		"hitPoints" : 250,
+		"horde" : 0,
+	},
+}

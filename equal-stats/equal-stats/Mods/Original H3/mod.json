@@ -1,0 +1,25 @@
+{
+	"name" : "Original H3 Towns",
+	"description" : "Default original H3 towns released by 3DO.",
+	"author" : "luk3Z",
+	"licenseName" : "Creative Commons Attribution-ShareAlike",
+	"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
+	"contact" : "",
+	"version" : "1.0",
+	"modType" : "Creatures",
+	"conflicts" :
+	[
+	],
+	"creatures" :
+	[
+		"config/conflux.json",
+		"config/dungeon.json",
+		"config/fortress.json",
+		"config/inferno.json",
+		"config/necropolis.json",
+		"config/rampart.json",
+		"config/stronghold.json",
+		"config/tower.json"
+	],
+	"keepDisabled" : true,
+}
